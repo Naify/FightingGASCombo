@@ -16,7 +16,7 @@ Tasks:
 
 ## Preview
 
-![](https://github.com/Naify/GasTechGDTest/blob/main/Img/gastest.gif)
+![](https://github.com/Naify/GasTGDTest/blob/main/Img/gastest.gif)
 
 ## Made with
 UE5, Blueprints, root motion, blendspace animation, animation montage, animation notifies, gas, gas abilities, gas input binding, gas events
